@@ -1,5 +1,11 @@
 ## Release Notes
 
+### 0.11.1
+
+This patch release:
+
+* Sets the default encoding in `GsonDeserializer` to `UTF_8`.
+
 ### 0.11.0
 
 This minor release:
